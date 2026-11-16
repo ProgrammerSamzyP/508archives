@@ -1,122 +1,93 @@
-# 508ARCHIVES – Ecommerce Website
+# 508ARCHIVES
+### Ecommerce Website
 
-## Project Overview
+## About the Project
 
-**508ARCHIVES** is an e-commerce website developed as an academic web development project. The platform is designed to provide users with an online shopping experience through a modern, accessible and user-friendly interface.
-
-The project demonstrates the application of web development concepts, frontend design, website structure and e-commerce functionality.
+508ARCHIVES is an e-commerce website developed using React and Vite. The project focuses on creating a modern online shopping experience through an organized interface, product presentation and responsive web design.
 
 ## Live Website
 
 [Visit 508ARCHIVES](508archives.netlify.app)
 
-## GitHub Repository
-
-[View Source Code](https://github.com/ProgrammerSamzyP/508archives.git)
-
-## Project Objectives
-
-- Develop a functional and responsive e-commerce website.
-- Create a user-friendly online shopping interface.
-- Apply practical web development skills.
-- Demonstrate website design, development and deployment.
-- Organize project files using a structured development approach.
-
-## Features
-
-Update this section to reflect the features actually implemented in your website.
-
-- Responsive website interface.
-- Product display and browsing.
-- Product details.
-- Shopping cart functionality (if implemented).
-- Navigation between website sections.
-- Modern user interface and styling.
-- Mobile and desktop compatibility.
-
 ## Technologies Used
 
-Replace or update this list according to the actual technologies used in the project.
+- React.js – Frontend library
+- Vite – Development and build tool
+- JavaScript – Application functionality
+- CSS3 – Styling and responsive design
+- Git and GitHub – Version control
+- Netlify – Website deployment
 
-- HTML5
-- CSS3
-- JavaScript
-- React (if applicable)
-- [Add other technologies used]
+## Key Features
 
-## Project Structure
+The website provides an online shopping interface. Its implemented functionality includes the following:
 
-The project structure may vary depending on the development framework.
+- Product presentation and browsing.
+- Responsive user interface.
+- Website navigation.
+- Product information and details.
 
-```text
-508archives/
-├── public/
-├── src/
-│   ├── assets/
-│   ├── components/
-│   ├── pages/
-│   └── styles/
-├── package.json
-├── .gitignore
-└── README.md
-```
+Add shopping cart, checkout or authentication here only if those features are actually implemented.
 
-## Installation and Setup
+## Getting Started
 
-To run the project locally:
+### Prerequisites
 
-1. Clone the repository:
+- Node.js
+- npm
+
+### Installation
+
+Clone the repository:
 
 ```bash
 git clone https://github.com/ProgrammerSamzyP/508archives.git
 ```
 
-2. Navigate into the project directory:
+Navigate to the project:
 
 ```bash
 cd 508archives
 ```
 
-3. Install the project dependencies (if using Node.js):
+Install dependencies:
 
 ```bash
 npm install
 ```
 
-4. Start the development server (if using Vite):
+Start the development server:
 
 ```bash
 npm run dev
 ```
 
-5. Open the local URL displayed in your terminal.
+### Production Build
+
+```bash
+npm run build
+```
+
+The production files will be generated in the `dist` directory.
 
 ## Deployment
 
-The website is deployed using Netlify.
+The project is hosted on Netlify.
 
-The live deployment allows users and project reviewers to access the website online.
+## Academic Project Information
 
-## Academic Submission
+- **Project Name:** 508ARCHIVES
+- **Project Type:** Ecommerce Website
+- **Framework:** React + Vite
+- **Institution:** Afe Babalola University
+- **Department:** Computer Science
 
-**Project Name:** 508ARCHIVES – Ecommerce Website
+## Developer
 
-**Project Type:** Web Development / E-commerce
+**Paul Samuel Iremide**
 
-**Repository:** [GitHub Repository](https://github.com/ProgrammerSamzyP/508archives.git)
-
-**Live Deployment:** [Netlify Website](508archives.netlify.app)
-
-This repository contains the source code and project documentation for academic review.
-
-## Author
-
-**Developer:** [Paul Samuel iremide]
-
-**Project:** 508ARCHIVES
-
-**Institution:** Afe Babalola University
+Afe Babalola University
 
 ---
 
-*Developed as an academic web development project.*
+Developed as an academic web development project.
