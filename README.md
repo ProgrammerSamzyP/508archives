@@ -7,7 +7,7 @@
 
 ## Live Website
 
-[Visit 508ARCHIVES](508archives.netlify.app)
+[Visit 508ARCHIVES](508archives-1.vercel.app)
 
 ## Technologies Used
 
@@ -16,7 +16,7 @@
 - JavaScript – Application functionality
 - CSS3 – Styling and responsive design
 - Git and GitHub – Version control
-- Netlify – Website deployment
+- Vercel – Website deployment
 
 ## Key Features
 
