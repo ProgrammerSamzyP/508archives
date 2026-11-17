@@ -72,7 +72,7 @@ The production files will be generated in the `dist` directory.
 
 ## Deployment
 
-The project is hosted on Netlify.
+The project is hosted on Vercel.
 
 ## Academic Project Information
 
